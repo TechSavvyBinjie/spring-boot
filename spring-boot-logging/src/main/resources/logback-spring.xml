@@ -37,7 +37,7 @@
     </root>
 
     <!-- 定义特定包的日志级别 -->
-    <logger name="com.yangfan.spingbootthymeleaf" level="debug" additivity="false">
+    <logger name="com.yangfan" level="debug" additivity="false">
         <appender-ref ref="CONSOLE" />
         <appender-ref ref="FILE" />
     </logger>
